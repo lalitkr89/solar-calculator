@@ -1,0 +1,4 @@
+"Date_Time","Name","Phone","City","Assigned_Caller","Call_Status","Disposition","Attempt_No","Avg_Bill","Roof_Space","Roof_Type","Required_kW","Meeting_Date","Meeting_Time","Address","Callback_Date","Callback_Time","Remarks","Meeting_Slot","Meeting_Address","Callback_Slot"
+"2026-03-10 23:21:38","Lalit","123456","delhi","Ravi","Not Connected","Not Connected 1st-Attempt","","","","","","","","","","","","","",""
+"2026-03-10 23:22:15","Lalit2","12345","Kanpur","Aman","Connected","Non Qualified - Bill Amount Insufficient","","0.0","0.0","RCC","","","","","","","","","",""
+"2026-03-11 11:32:48","Shanti","1234567890","Delhi","Ravi","Connected","Meeting Scheduled (BD)","","","","","","11-Mar-26","","","","","Meeting sheduled","13:00-14:00","abc",""
